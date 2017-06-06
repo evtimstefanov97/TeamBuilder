@@ -1,0 +1,12 @@
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Data.dll.config
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Data.dll
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Data.pdb
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.dll
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Models.dll
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Models.pdb
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.xml
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\obj\Debug\TeamBuilder.Data.csprojResolveAssemblyReference.cache
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\obj\Debug\TeamBuilder.Data.dll
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.Data\obj\Debug\TeamBuilder.Data.pdb

@@ -1,0 +1,16 @@
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\TeamBuilder.App.exe.config
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\TeamBuilder.App.exe
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\TeamBuilder.App.pdb
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\EntityFramework.dll
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\TeamBuilder.Data.dll
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\TeamBuilder.Models.dll
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\TeamBuilder.Data.pdb
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\TeamBuilder.Models.pdb
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\EntityFramework.xml
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\obj\Debug\TeamBuilder.App.csprojResolveAssemblyReference.cache
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\obj\Debug\TeamBuilder.App.exe
+c:\users\evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\obj\Debug\TeamBuilder.App.pdb
+C:\Users\Evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evtim\documents\visual studio 2015\Projects\TeamBuilder\TeamBuilder.App\bin\Debug\Newtonsoft.Json.xml
